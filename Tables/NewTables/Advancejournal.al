@@ -40,9 +40,6 @@ table 50101 "Advance Journal"
 
     }
 
-    var
-        myInt: Integer;
-
     trigger OnInsert()
     begin
 
